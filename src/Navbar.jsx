@@ -5,7 +5,7 @@ const Navbar = () => {
                 <a href="/">
                     <span className="font-bold text-xl">Form Creator</span>
                 </a>
-                <a href="https://github.com/robiuzzaman4?tab=repositories" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/robiuzzaman4/form-creator" target="_blank" rel="noopener noreferrer">
                     <img
                         src="/github.svg"
                         alt="github svg icon"
